@@ -18,13 +18,17 @@ git clone https://github.com/th33xitus/kiauh.git
 
 #3 Pour pouvoir installer klipperscreen dependance:
 sudo apt install libcairo2-dev pkg-config
+
 sudo apt install python-gi-cairo
+
 sudo apt installe libgirespository1.0-dev
 
 #4 Ajouter la ligne:
 needs_root_rights=yes  
-dans ca:
-sudo nano /etc/X11/Xwrapper.config et ajouter 
+dans ceci:
+sudo nano /etc/X11/Xwrapper.config 
+ctrl+O et Enter pour sauvegarder 
+ctrl+X pour quitter nano
 
 #5 A la fin d'avoir toute installer de klipperscreen :
 sudo apt install xserver-xorg-legacy
