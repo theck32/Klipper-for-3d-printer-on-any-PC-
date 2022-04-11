@@ -24,7 +24,21 @@ sudo apt-get install git -y
 
 git clone https://github.com/th33xitus/kiauh.git
 
-#3 Pour pouvoir installer klipperscreen vous devez installer c'est dependance:
+Ouvrir kiauh :
+
+cd kiauh
+
+./kiauh.sh
+
+Installer :
+
+Fluidd,moonraker et quitter kiauh et installer 
+les dépendances pour Klipperscreen le #3 du tuto!
+
+Quand les dépendances sont installés ouvrez à nouveau kiauh
+et installer Klipperscreen !
+
+#3 Pour pouvoir installer klipperscreen vous devez installer c'est dépendances:
 
 sudo apt install libcairo2-dev pkg-config
 
@@ -63,3 +77,11 @@ sudo nano KlipperScreen.conf
 et ajouter cette ligne:
 
 show_cursor: True
+
+ctrl+O et Enter pour sauvegarder 
+
+ctrl+X et Enter pour quitter nano
+
+voilà klipper,fluidd,moonraker et Klipperscreen 
+est maintenant installé et prêt à être utilisé 
+avec une souris pour une écran non tactile sur vôtre Imprimante 3D!
