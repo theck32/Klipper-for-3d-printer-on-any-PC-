@@ -4,6 +4,10 @@ Tutoriel pour installer klipper pour imprimante 3d sur n'importe qu'elle ordinat
 Téléchager Raspbian pour X86 :
 https://downloads.raspberrypi.org/rpd_x86/images/rpd_x86-2021-01-12/2021-01-11-raspios-buster-i386.iso
 
+Écrire ce .ISO sur une clef usb avec Etcher ou autre!
+
+Démarrer votre ordinateur sur cette clef usb!
+
 #1 Installer raspbian pour x86
 Quand raspbian est installé ouvré un terminal et ecrire:
 
