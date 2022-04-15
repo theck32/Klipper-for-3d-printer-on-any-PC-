@@ -25,7 +25,7 @@ Allez dans Finish en bas à droite
 
 redémarré
 
-Configurer votre Wi-Fi avec:
+Configurer votre Wi-Fi avec: (Vous pouvez utiliser un câble Ethernet si vous avez pas de wifi)
 
 sudo raspi-config 
 
