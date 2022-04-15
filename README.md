@@ -45,7 +45,7 @@ cd kiauh
 
 Installer :
 
-Fluidd,moonraker et quitter kiauh et installer 
+Klipper,moonraker,Fluidd et quitter kiauh et installer 
 les dépendances pour Klipperscreen le #3 du tuto!
 
 Quand les dépendances sont installés ouvrez à nouveau kiauh
