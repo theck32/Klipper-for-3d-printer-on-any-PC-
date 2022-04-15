@@ -15,17 +15,21 @@ sudo raspi-config
  
 dans le menu raspi-config allez dans
  
-#1 (Systems Options)
+1 (Systems Options)
 
-Dans S5 (Boot option)
+S5 (Boot option)
 
-choisir B2 (Console AutoLogin)
+B2 (Console AutoLogin)
+
+Allez dans Finish en bas à droite
 
 redémarré
 
 Configurer votre Wi-Fi avec:
 
 sudo raspi-config 
+
+1 et S1 (Wireless LAN)
 
 #2 Installer le scripts kiauh:
 
