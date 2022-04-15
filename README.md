@@ -53,6 +53,10 @@ et installer Klipperscreen !
 
 #3 Pour pouvoir installer klipperscreen vous devez installer c'est dépendances:
 
+sudo apt get install update
+
+sudo apt get install upgrade
+
 sudo apt install libcairo2-dev pkg-config
 
 sudo apt install python-gi-cairo
