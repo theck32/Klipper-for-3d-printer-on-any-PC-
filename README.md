@@ -13,8 +13,13 @@ Quand raspbian est installé ouvré un terminal et ecrire:
 
 sudo raspi-config
  
-dans le menu raspi-config allez dans #3 (Boot option)
-et choisir B2 (Console AutoLogin)
+dans le menu raspi-config allez dans
+ 
+#1 (Systems Options)
+
+Dans S5 (Boot option)
+
+choisir B2 (Console AutoLogin)
 
 redémarré
 
