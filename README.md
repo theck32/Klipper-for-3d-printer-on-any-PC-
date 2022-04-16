@@ -13,13 +13,23 @@ Quand raspbian est installé ouvré un terminal et ecrire:
 
 sudo raspi-config
  
-dans le menu raspi-config allez dans
+dans le menu raspi-config allez dans:
  
 1 (Systems Options)
 
 S5 (Boot option)
 
 B2 (Console AutoLogin)
+
+Activer le SSH:
+
+Retourner au début du menu raspi-config 
+
+5 (Interfacing Options)
+
+P2 SSH
+
+Choisir Yes dans “Would you like the SSH server to be enabled?”
 
 Allez dans Finish en bas à droite
 
