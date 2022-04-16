@@ -62,23 +62,7 @@ sudo apt install libgirepository1.0-dev
 
 #4 Ouvrer kiauh et installer Klipperscreen 
 
-#5 Ajouter la ligne:
-
-needs_root_rights=yes 
- 
-dans ceci:
-
-sudo nano /etc/X11/Xwrapper.config 
-
-ctrl+O et Enter pour sauvegarder 
-
-ctrl+X et Enter pour quitter nano
-
-#6 A la fin d'avoir toute installer pour klipperscreen :
-
-sudo apt install xserver-xorg-legacy
-
-#7 Ajouter le curseur de la souris dans Klipperscreen:
+#5 Ajouter le curseur de la souris dans Klipperscreen:
 
 Aller dans :
 
@@ -97,6 +81,24 @@ show_cursor: True
 ctrl+O et Enter pour sauvegarder 
 
 ctrl+X et Enter pour quitter nano
+
+#6 Ajouter la ligne:
+
+needs_root_rights=yes 
+ 
+dans ceci:
+
+sudo nano /etc/X11/Xwrapper.config 
+
+ctrl+O et Enter pour sauvegarder 
+
+ctrl+X et Enter pour quitter nano
+
+#7 A la fin d'avoir toute installer pour klipperscreen :
+
+sudo apt install xserver-xorg-legacy
+
+
 
 
 voilà klipper,fluidd,moonraker et Klipperscreen 
