@@ -48,7 +48,7 @@ Installer :
 Klipper,moonraker,Fluidd et quitter kiauh et installer 
 les dépendances pour Klipperscreen le #3 du tuto!
 
-#3 Pour pouvoir installer klipperscreen vous devez installer c'est dépendances:
+#3 Pour pouvoir installer klipperscreen vous devez installer c'est dépendances et faire #4 à #6:
 
 sudo apt get install update
 
