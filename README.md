@@ -60,7 +60,9 @@ sudo apt install python-gi-cairo
 
 sudo apt install libgirepository1.0-dev
 
-#4 Ajouter la ligne:
+#4 Ouvrer kiauh et installer Klipperscreen 
+
+#5 Ajouter la ligne:
 
 needs_root_rights=yes 
  
@@ -72,11 +74,11 @@ ctrl+O et Enter pour sauvegarder
 
 ctrl+X et Enter pour quitter nano
 
-#5 A la fin d'avoir toute installer pour klipperscreen :
+#6 A la fin d'avoir toute installer pour klipperscreen :
 
 sudo apt install xserver-xorg-legacy
 
-#6 Ajouter le curseur de la souris dans Klipperscreen:
+#7 Ajouter le curseur de la souris dans Klipperscreen:
 
 Aller dans :
 
