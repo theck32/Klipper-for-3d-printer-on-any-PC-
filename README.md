@@ -68,6 +68,8 @@ Aller dans :
 
 klipper_config avec cette commande:
 
+cd ..
+
 cd klipper_config
 
 Ensuite cette commande:
