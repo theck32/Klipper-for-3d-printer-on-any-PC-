@@ -60,9 +60,9 @@ les dépendances pour Klipperscreen le #3 du tuto!
 
 #3 Pour pouvoir installer klipperscreen vous devez installer c'est dépendances:
 
-sudo apt get install update
+sudo apt-get update
 
-sudo apt get install upgrade
+sudo apt-get upgrade
 
 sudo apt install libcairo2-dev pkg-config
 
