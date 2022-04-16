@@ -116,3 +116,5 @@ sudo apt install xserver-xorg-legacy
 voilà klipper,fluidd,moonraker et Klipperscreen 
 est maintenant installé et prêt à être utilisé 
 avec une souris pour une écran non tactile sur vôtre Imprimante 3D!
+
+Jérôme St-gelais (2022)
