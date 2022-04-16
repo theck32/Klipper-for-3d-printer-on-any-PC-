@@ -94,7 +94,7 @@ ctrl+O et Enter pour sauvegarder
 
 ctrl+X et Enter pour quitter nano
 
-#7 A la fin d'avoir toute installer pour klipperscreen :
+#7 A la fin d'avoir toute installer pour klipperscreen : (Pas toujours obligatoire)
 
 sudo apt install xserver-xorg-legacy
 
