@@ -58,7 +58,7 @@ sudo apt install libcairo2-dev pkg-config
 
 sudo apt install python-gi-cairo
 
-sudo apt installe libgirespository1.0-dev
+sudo apt install libgirepository1.0-dev
 
 #4 Ajouter la ligne:
 
