@@ -84,7 +84,7 @@ ctrl+O et Enter pour sauvegarder
 
 ctrl+X et Enter pour quitter nano
 
-#6 Ajouter la ligne:
+#6 Ajouter la ligne (Écrivez la pour qu'elle soit en premier):
 
 needs_root_rights=yes 
  
