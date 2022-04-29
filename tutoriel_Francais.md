@@ -1,6 +1,8 @@
 # Klipper-for-3d-printer-on-any-PC-
 Tutoriel pour installer klipper pour imprimante 3d sur n'importe qu'elle ordinateur Portable ou de Bureau
 
+Don PayPal: jeromest_gelais@hotmail.com
+
 Téléchager Raspbian pour X86 :
 https://downloads.raspberrypi.org/rpd_x86/images/rpd_x86-2021-01-12/2021-01-11-raspios-buster-i386.iso
 
