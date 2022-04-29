@@ -37,13 +37,19 @@ Allez dans Finish en bas à droite
 
 redémarré
 
+#2 Ecrivez la commande : 
+
+ls /dev/serial/by-id/
+
+Cela vous donnera le lien pour écrire dans [mcu] de printer.cfg
+
 Configurer votre Wi-Fi avec: (Vous pouvez utiliser un câble Ethernet si vous avez pas de wifi)
 
 sudo raspi-config 
 
 1 et S1 (Wireless LAN)
 
-#2 Installer le scripts kiauh:
+#3 Installer le scripts kiauh:
 
 sudo apt-get install git -y
 
@@ -60,7 +66,7 @@ Installer :
 Klipper,moonraker,Fluidd et quitter kiauh et installer 
 les dépendances pour Klipperscreen le #3 du tuto!
 
-#3 Pour pouvoir installer klipperscreen vous devez installer c'est dépendances:
+#4 Pour pouvoir installer klipperscreen vous devez installer c'est dépendances:
 
 sudo apt-get update
 
@@ -72,9 +78,9 @@ sudo apt install python-gi-cairo
 
 sudo apt install libgirepository1.0-dev
 
-#4 Ouvrer kiauh et installer Klipperscreen 
+#5 Ouvrer kiauh et installer Klipperscreen 
 
-#5 Ajouter le curseur de la souris dans Klipperscreen:
+#6 Ajouter le curseur de la souris dans Klipperscreen:
 
 Aller dans :
 
@@ -96,7 +102,7 @@ ctrl+O et Enter pour sauvegarder
 
 ctrl+X et Enter pour quitter nano
 
-#6 Ajouter la ligne (Écrivez la pour qu'elle soit en premier):
+#7 Ajouter la ligne (Écrivez la pour qu'elle soit en premier):
 
 needs_root_rights=yes 
  
@@ -108,7 +114,7 @@ ctrl+O et Enter pour sauvegarder
 
 ctrl+X et Enter pour quitter nano
 
-#7 A la fin d'avoir toute installer pour klipperscreen : (Pas toujours obligatoire)
+#8 A la fin d'avoir toute installer pour klipperscreen : (Pas toujours obligatoire)
 
 sudo apt install xserver-xorg-legacy
 
