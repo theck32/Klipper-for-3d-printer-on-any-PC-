@@ -1,6 +1,8 @@
 # Klipper-for-3d-printer-on-any-PC-
 Tutorial to install klipper for 3d printer on any Laptop or Desktop
 
+Jérôme St-gelais (2022) Donation PayPal jeromest_gelais@hotmail.com
+
 Download Raspbian for X86:
 https://downloads.raspberrypi.org/rpd_x86/images/rpd_x86-2021-01-12/2021-01-11-raspios-buster-i386.iso
 
@@ -117,4 +119,4 @@ here is klipper, fluidd, moonraker and Klipperscreen
 is now installed and ready to use
 with a mouse for a non-touch screen on your 3D printer!
 
-Jérôme St-gelais (2022) Donation PayPal jeromest_gelais@hotmail.com
+Jérôme St-gelais (2022)
