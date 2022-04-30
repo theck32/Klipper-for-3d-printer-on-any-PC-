@@ -27,7 +27,7 @@ Enable SSH:
 
 Return to top of raspi-config menu
 
-5 (Interfacing Options)
+3 (Interfacing Options)
 
 P2 SSH
 
