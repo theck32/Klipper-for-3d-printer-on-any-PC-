@@ -27,7 +27,7 @@ Activer le SSH:
 
 Retourner au début du menu raspi-config 
 
-5 (Interfacing Options)
+3 (Interfacing Options)
 
 P2 SSH
 
