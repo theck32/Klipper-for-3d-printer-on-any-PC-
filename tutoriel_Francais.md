@@ -96,7 +96,7 @@ sudo nano KlipperScreen.conf
 
 et ajouter cette ligne:
 
-show_cursor: True
+#~# show_cursor: True
 
 ctrl+O et Enter pour sauvegarder 
 
