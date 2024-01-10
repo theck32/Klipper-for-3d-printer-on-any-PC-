@@ -31,14 +31,13 @@ Retourner au début du menu raspi-config
 I2 SSH
 
 Choisir Yes dans "Would you like the SSH server to be enabled?"
-Y
 
 Allez dans Finish en bas à droite
 
 Configurer votre WIFI dans le haut droite ou le faire dans sudo raspi-config! Quand cela est fait retourner dans le terminal deja ouvert et ecrivé :
 sudo reboot
 
-Maintenant voud allez redémarré sur un terminal uniquement vérifier votre connexion internet avec la command : ifconfig
+Maintenant vous allez redémarré sur un terminal uniquement vérifier votre connexion internet avec la command : ifconfig
 
 #2
 sudo apt-get update && sudo apt-get install git -y
