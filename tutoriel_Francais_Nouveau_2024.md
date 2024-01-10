@@ -1,4 +1,4 @@
-----Nouveau,(2024-01-09)------
+--Nouveau,(2024-01-09)--
 Tutoriel pour installer klipper pour imprimante 3d sur n'importe qu'elle ordinateur Portable ou de Bureau
 
 Don PayPal: jeromest_gelais@hotmail.com
@@ -10,7 +10,9 @@ https://downloads.raspberrypi.org/rpd_x86/images/rpd_x86-2022-07-04/2022-07-01-r
 
 Démarrer votre ordinateur sur cette clef usb!
 
-#1 Installer raspbian pour x86 Quand raspbian est installé ouvré un terminal et écrire:
+#1 Installer raspbian pour x86 
+Choisir Install et non Graphics install
+Quand raspbian est installé ouvré un terminal et écrire:
 
 sudo raspi-config
 
