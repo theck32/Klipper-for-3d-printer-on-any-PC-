@@ -33,7 +33,7 @@ I2 SSH
 Choisir Yes dans "Would you like the SSH server to be enabled?"
 Y
 
-Allez dans Finish en bas Ã  droite
+Allez dans Finish en bas à droite
 
 Configurer votre WIFI dans le haut droite ou le faire dans sudo raspi-config! Quand cela est fait retourner dans le terminal deja ouvert et ecrivé :
 sudo reboot
