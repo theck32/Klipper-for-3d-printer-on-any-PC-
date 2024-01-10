@@ -67,6 +67,7 @@ sudo nano defaults.conf
 [main]
 
 show_cursor: True
+
 CTRL+O et ENTER (Pour sauvegarder)
 CTRL+Xpour quitter nano
 
